@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="Genel_TRT1" tvg-logo="https://i.ibb.co/n1SCYqN/nowtv.png" group-title="Genel",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
+#EXTINF:-1 tvg-logo="" group-title="Haber", TRT HABER
+http://185.234.111.229:8000/play/a00d
+#EXTINF:-1 tvg-logo="" group-title="Genel", TRT SPOR
+http://185.234.111.229:8000/play/a00e
+#EXTINF:-1 tvg-logo="" group-title="Genel", KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=7a8rrph5kao2&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 tvg-logo="" group-title="Genel", SHOW
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7a8rpydnssxz&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1 tvg-logo="" group-title="Genel", ATV
+https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1743406676&st=EKNLK-g3mi76Qp_jyISoZw&sid=7a8rmvtjbcrj&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:-1 tvg-logo="" group-title="Genel", STAR
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7a8rk0ir2g06&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 tvg-logo="" group-title="Genel", NOW
+#EXTVLCOPT:http-referrer=https://www.nowtv.com.tr
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1743641066&st=iMyZJLqdW5UEwSacWmhm5A
+#EXTINF:-1 tvg-logo="" group-title="Genel", KANAL 7
+https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=7a8rtaeuigg6&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 tvg-logo="" group-title="Haber", NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Haber", CNN TÜRK
+#EXTVLCOPT:http-referrer=https://www.cnnturk.com
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=YsoCmHPyM8qIU_OSFGvaEw&e=1743594589
+#EXTINF:-1 tvg-logo="" group-title="Haber", HABER TÜRK
+http://stream.tvcdn.net/haber/haberturk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Genel", BEYAZ TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Genel", TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Genel", A2
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Genel", TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Haber", SÖZCÜ TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Haber", HALK TV
+http://stream.tvcdn.net/haber/halk-tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Haber", HABER GLOBAL
+http://stream.tvcdn.net/haber/haber-global.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Genel", 360
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", TRT BELGESEL
+#EXTVLCOPT:http-referrer=https://www.tabii.com
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", NAT GEO WILD
+https://tv.arectv13.sbs/live/natgeowild.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", NAT GEO
+https://tv.arectv29.sbs/live/natgeo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", BEIN GURME
+http://emrxxxx@rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6804/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", DISCOVERY CHANNEL
+https://tv.arectv29.sbs/live/discovery.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", D MAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgesel", TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Spor", ASPOR
+https://tv.arectv29.sbs/live/aspor.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BEIN SPORTS 1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://jestyayin934.com
+https://heyhat.mevzuhls25.cfd/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BEIN SPORTS 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://jestyayin934.com
+https://heyhat.mevzuhls25.cfd/yayinb2.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BEIN SPORTS 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://jestyayin934.com
+https://heyhat.mevzuhls25.cfd/yayinb3.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BEIN SPORTS 4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://jestyayin934.com
+https://heyhat.mevzuhls25.cfd/yayinb4.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
